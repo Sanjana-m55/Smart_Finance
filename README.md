@@ -1,4 +1,4 @@
-This is the Smart Finance management project 📊📈📉💰
+*This is the Smart Finance management project 📊📈📉💰*
 
 The Smart Finance app is a data-driven platform designed to assist users in managing their finances by analyzing their income, expenses, and investments.
 It offers features like personalized budget recommendations, identification of overspending or underspending in various sectors,and generating detailed business plans based on user data. 
