@@ -1,0 +1,7 @@
+streamlit 
+pymongo
+bcrypt
+plotly.express
+pandas
+functools
+tabula 
